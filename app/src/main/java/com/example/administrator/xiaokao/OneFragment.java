@@ -51,7 +51,9 @@ public class OneFragment extends Fragment implements MainView {
 
 
                     break;
-                //是否所发生的
+
+
+                    //  时空裂缝就上课了附近的顺口溜
             }
 
         }
