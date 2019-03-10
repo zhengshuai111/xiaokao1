@@ -51,7 +51,7 @@ public class OneFragment extends Fragment implements MainView {
 
 
                     break;
-
+                //是否所发生的
             }
 
         }
